@@ -1,0 +1,76 @@
+event_name - Event Name
+r_fighter - Red Corner Fighter
+b_fighter - Blue Corner Fighter
+winner - Winner
+weight_class - Weight Class
+is_title_bout - Is Title Bout
+gender - Gender
+method - Method
+finish_round - Finish Round
+total_rounds - Total Rounds
+time_sec - Time in Seconds
+referee - Referee
+r_kd - Red Knockdowns
+r_sig_str - Red Significant Strikes
+r_sig_str_att - Red Significant Strikes Attempted
+r_sig_str_acc - Red Significant Strikes Accuracy
+r_str - Red Total Strikes
+r_str_att - Red Total Strikes Attempted
+r_str_acc - Red Total Strikes Accuracy
+r_td - Red Takedowns
+r_td_att - Red Takedowns Attempted
+r_td_acc - Red Takedowns Accuracy
+r_sub_att - Red Submission Attempts
+r_rev - Red Reversals
+r_ctrl_sec - Red Control Time in Seconds
+r_wins_total - Red Total Wins
+r_losses_total - Red Total Losses
+r_age - Red Age
+r_height - Red Height
+r_weight - Red Weight
+r_reach - Red Reach
+r_stance - Red Stance
+r_SLpM_total - Red Significant Strikes Landed per Minute Total
+r_SApM_total - Red Significant Strikes Absorbed per Minute Total
+r_sig_str_acc_total - Red Significant Strikes Accuracy Total
+r_td_acc_total - Red Takedowns Accuracy Total
+r_str_def_total - Red Strikes Defense Total
+r_td_def_total - Red Takedowns Defense Total
+r_sub_avg - Red Submission Average per 15 minutes
+r_td_avg - Red Takedowns Average per 15 minutes
+b_kd - Blue Knockdowns
+b_sig_str - Blue Significant Strikes
+b_sig_str_att - Blue Significant Strikes Attempted
+b_sig_str_acc - Blue Significant Strikes Accuracy
+b_str - Blue Total Strikes
+b_str_att - Blue Total Strikes Attempted
+b_str_acc - Blue Total Strikes Accuracy
+b_td - Blue Takedowns
+b_td_att - Blue Takedowns Attempted
+b_td_acc - Blue Takedowns Accuracy
+b_sub_att - Blue Submission Attempts
+b_rev - Blue Reversals
+b_ctrl_sec - Blue Control Time in Seconds
+b_wins_total - Blue Total Wins
+b_losses_total - Blue Total Losses
+b_age - Blue Age
+b_height - Blue Height
+b_weight - Blue Weight
+b_reach - Blue Reach
+b_stance - Blue Stance
+b_SLpM_total - Blue Significant Strikes Landed per Minute Total
+b_SApM_total - Blue Significant Strikes Absorbed per Minute Total
+b_sig_str_acc_total - Blue Significant Strikes Accuracy Total
+b_td_acc_total - Blue Takedowns Accuracy Total
+b_str_def_total - Blue Strikes Defense Total
+b_td_def_total - Blue Takedowns Defense Total
+b_sub_avg - Blue Submission Average per 15 minutes
+b_td_avg - Blue Takedowns Average per 15 minutes
+kd_diff - Knockdown Difference
+sig_str_diff - Significant Strikes Difference
+sig_str_att_diff - Significant Strikes Attempted Difference
+sig_str_acc_diff - Significant Strikes Accuracy Difference
+str_diff - Total Strikes Difference
+str_att_diff - Total Strikes Attempted Difference
+str_acc_diff - Total Strikes Accuracy Difference
+td_diff - Takedowns Difference
