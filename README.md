@@ -4,7 +4,7 @@ Predictive-Modeling-UFC-Fights
 
 This project uses comprehensive data from the UFC to predict fight outcomes and evaluate various influencing factors. The dataset includes statistics such as strikes landed, takedowns, fight venue, and much more. By building predictive models and conducting exploratory data analysis (EDA), this project aims to identify patterns, trends, and correlations that could help in forecasting the outcomes of future UFC matches.
 
-The Dataset is from 2010 - 2020
+The Dataset is from 2010 - 2020 or UFC 111 to UFC 148
 
 166 Events occurred during this time frame. This dataset reflects this as well. 
 
