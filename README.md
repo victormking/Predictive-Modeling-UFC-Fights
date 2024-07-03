@@ -12,6 +12,7 @@ This time range goes from 3/21/2010 to 3/14/2020 (this is when CODID-19 began)
 
 Fights before 2010 are being valued with less importance as fighters fighting prior to 2010 shnould not be fighting at high levels. 
 
+Currently working on adding data to complete dataset to catch up with current events (Up to UFC 297 at the moment)
 ## Objectives
 
 Predictive Modeling: Develop machine learning models to predict the outcomes of UFC fights.
